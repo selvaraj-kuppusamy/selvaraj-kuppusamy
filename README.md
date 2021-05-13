@@ -1,7 +1,4 @@
 ### Hi there 👋 I'm Selvaraj Kuppusamy
-
-![cloud](https://media.giphy.com/media/l41Yt8W2i7QxmGaic/giphy.gif)
-
 <!--
 **selvaraj-kuppusamy/selvaraj-kuppusamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![cloud](https://media.giphy.com/media/l41Yt8W2i7QxmGaic/giphy.gif)
