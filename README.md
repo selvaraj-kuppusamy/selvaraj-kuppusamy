@@ -16,16 +16,11 @@ Here are some ideas to get you started:
 
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Selvaraj Kuppusamy</h2>
 
-<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
+<img align="right" height="150rem" alt="GIF" src="https://media.giphy.com/media/pOKrXLf9N5g76/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
 - 👨  I’m currently working on something cool :wink:.
 - 🌱  I’m currently learning ReactJS. 
 - 💬  Ask me about anything, I am happy to help.
-- 📫  How to reach me: velmanikpvs@gmail.com
-
-***
-
-~                                                                                                                                                     
-~                                                                                         
+- 📫  How to reach me: velmanikpvs@gmail.com                                                                                        
