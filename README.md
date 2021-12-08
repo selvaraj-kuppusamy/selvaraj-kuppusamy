@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Selvaraj Kuppusamy</h2>
 
-<img align="right" height="150rem" width="400" alt="GIF" src="https://media.giphy.com/media/pOKrXLf9N5g76/giphy.gif" />
+<img align="right" height="150rem" width="250" alt="GIF" src="https://media.giphy.com/media/pOKrXLf9N5g76/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
