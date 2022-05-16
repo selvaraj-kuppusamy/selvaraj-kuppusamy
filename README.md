@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 
 **Talking about Personal Stuffs:**
 
-- 👨  I’m currently working on something cool :wink:.
-- 💬  Ask me about anything, I am happy to help.
+
 - 📫  How to reach me: velmanikpvs@gmail.com                                                                                        
