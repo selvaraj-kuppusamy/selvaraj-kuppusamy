@@ -15,8 +15,5 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-<h2>I'm Selvaraj.</h2>
-<h2>I'm Selvaraj.</h2>
-
-
-                                                                                
+<h2>I'm Selvaraj Kuppusamy.</h2>
+                                                                          
